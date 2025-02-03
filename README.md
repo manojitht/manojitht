@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Manojith  
+# Hello World! 👋, I'm Manojith  
 
-**I'm a passionate Software Engineer, working on Gen-AI projects and Full-Stack App Development**
+## **I'm a passionate Software Engineer, working on Gen-AI projects and Full-Stack App Development**
 
 I'm an intermediate to advanced level experienced Python, Java and JavaScript developer, who has good knowledge on implementing algorithms with problem solving skills. As a techie I would like to create innovative solutions to accomplish real-world problems with AI/ML.
 
