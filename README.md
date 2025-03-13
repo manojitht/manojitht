@@ -1,4 +1,4 @@
-# Hello World! 👋, I'm Manojith  
+<h2 align="center">Hello World! 👋, I'm Manojith</h2>
 
 ## **I'm a passionate Backend Software Engineer, working on Gen-AI projects and Full-Stack App Development**
 
