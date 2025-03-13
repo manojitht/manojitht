@@ -10,3 +10,8 @@ I'm an intermediate to advanced level experienced Python, Java and JavaScript de
 - 📫 **How to reach me:** e-mail me on manojithtjmkm@gmail.com
 - 😄 **Pronouns:** (He/Him)
 - ⚡ **Fun fact:** For developers AI is a companion, not a competitor 😊
+
+&nbsp;![](https://komarev.com/ghpvc/?username=manojitht&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojitht&show_icons=true&locale=en" alt="manojitht" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojitht&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
