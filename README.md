@@ -10,7 +10,7 @@ I'm an intermediate to advanced level experienced Python, Java and JavaScript de
 - I’m looking to collaborate on Open-Source projects, please feel free to reach out to me.
 - Pronouns: **(He/Him)**.
 - All of my projects are available at [https://github.com/manojitht?tab=repositories](https://github.com/manojitht?tab=repositories)
-- How to reach me: e-mail me on **manojithtjmkm@gmail.com**.
+- Feel free to reach out me: e-mail me on **manojithtjmkm@gmail.com**.
 - Fun fact: **For developers AI is a companion, not a competitor 😊**.
 
 <h3 align="left">Connect with me:</h3>
