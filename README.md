@@ -9,6 +9,7 @@ I'm an intermediate to advanced level experienced Python, Java and JavaScript de
 - I’m currently learning Generative AI, Machine Learning & System Design.
 - I’m looking to collaborate on Open-Source projects, please feel free to reach out to me.
 - Pronouns: **(He/Him)**.
+- My Portfolio: https://manojitht.github.io/
 - All of my projects are available at [https://github.com/manojitht?tab=repositories](https://github.com/manojitht?tab=repositories)
 - Feel free to reach out me: e-mail me on **manojithtjmkm@gmail.com**.
 - Fun fact: **For developers AI is a companion, not a competitor 😊**.
